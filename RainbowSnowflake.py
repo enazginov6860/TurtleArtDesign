@@ -23,4 +23,3 @@ bob.width (6)
 for times in range (10):
     rainbowsnowflake (bob)
     bob.left (35)
-
